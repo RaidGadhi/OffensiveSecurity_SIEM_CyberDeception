@@ -24,8 +24,9 @@ Defense Mechanisms: Dynamic IP blocking, rate limiting, and SQL injection detect
 
 
 /documentation
-
-   ├── FinalReport.pdf           # Detailed project report
+   ├── Project instructions.pdf           # Project Requriments
+   ├── Project Final Report.pdf           # Detailed project report
+   
 
 🛠️ Tools & Technologies
 Languages: Bash, Python

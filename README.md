@@ -11,11 +11,18 @@ Defense Mechanisms: Dynamic IP blocking, rate limiting, and SQL injection detect
 📂 Repository Structure
 /scripts
    ├── attack_script.sh          # Automates reconnaissance and exploitation
+
    ├── honeypot_setup.sh         # Deploys the Glastopf honeypot
+
    ├── dynamic_ip_block.sh       # Blocks malicious IPs dynamically
+
    ├── rate_limiting.sh          # Limits HTTP requests to prevent DoS attacks
+
    ├── sql_injection_detect.sh   # Detects and blocks SQL injection attempts
+
+
 /documentation
+
    ├── FinalReport.pdf           # Detailed project report
 
 🛠️ Tools & Technologies

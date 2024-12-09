@@ -9,7 +9,9 @@ SIEM Integration: Visualization and analysis of attack data using Wazuh.
 Defense Mechanisms: Dynamic IP blocking, rate limiting, and SQL injection detection scripts.
 
 📂 Repository Structure
+
 /scripts
+
    ├── attack_script.sh          # Automates reconnaissance and exploitation
 
    ├── honeypot_setup.sh         # Deploys the Glastopf honeypot
